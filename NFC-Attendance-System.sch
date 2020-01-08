@@ -11082,7 +11082,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="GND6" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="J3" library="SparkFun-Connectors" deviceset="CONN_08" device="&quot;" value="LCD_HDR"/>
 <part name="J2" library="SparkFun-Connectors" deviceset="CONN_07" device="" value="DAC_HDR"/>
-<part name="Q1" library="SparkFun-DiscreteSemi" deviceset="TRANS_PNP" device="-MMBT4403" value="600mA/40V"/>
+<part name="Q1" library="SparkFun-DiscreteSemi" deviceset="TRANS_PNP" device="-MMBT4403" value="8550"/>
 <part name="GND8" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device="">
 <attribute name="DESIGNER" value="Jack Chen"/>
